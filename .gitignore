@@ -1,0 +1,17 @@
+construir /
+nbbuild /
+dist /
+nbdist /
+.nb-gradle /
+build/
+dist/
+nbproject/
+bin/*
+lib/*
+obj/*
+cmake-build-debug/*
+/cmake-build-debug/
+/CMakeLists.txt
+.vscode/
+.idea/
+!*/.gitkeep
